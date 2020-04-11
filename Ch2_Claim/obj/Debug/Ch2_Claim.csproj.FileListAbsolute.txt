@@ -1,0 +1,7 @@
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\bin\Debug\Ch2_Claim.exe.config
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\bin\Debug\Ch2_Claim.exe
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\bin\Debug\Ch2_Claim.pdb
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\obj\Debug\Ch2_Claim.csproj.CoreCompileInputs.cache
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\obj\Debug\Ch2_Claim.exe
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\obj\Debug\Ch2_Claim.pdb
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch2_Claim\obj\Debug\Ch2_Claim.csprojAssemblyReference.cache

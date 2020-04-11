@@ -1,0 +1,7 @@
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\bin\Debug\Ch5_Greet.exe.config
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\bin\Debug\Ch5_Greet.exe
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\bin\Debug\Ch5_Greet.pdb
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\obj\Debug\Ch5_Greet.csprojAssemblyReference.cache
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\obj\Debug\Ch5_Greet.csproj.CoreCompileInputs.cache
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\obj\Debug\Ch5_Greet.exe
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch5_Greet\obj\Debug\Ch5_Greet.pdb

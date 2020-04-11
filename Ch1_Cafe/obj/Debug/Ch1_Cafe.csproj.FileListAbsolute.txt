@@ -1,0 +1,7 @@
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\obj\Debug\Ch1_Cafe.csprojAssemblyReference.cache
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\obj\Debug\Ch1_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\bin\Debug\Ch1_Cafe.exe.config
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\bin\Debug\Ch1_Cafe.exe
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\bin\Debug\Ch1_Cafe.pdb
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\obj\Debug\Ch1_Cafe.exe
+C:\Users\alec1\source\repos\GoldBadgeChallenges\Ch1_Cafe\obj\Debug\Ch1_Cafe.pdb
